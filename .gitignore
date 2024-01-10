@@ -1,8 +1,1 @@
-node_modules
-build
-deploy
-screens*
-npm-debug.log
-*.png
-.env
-.DS_Store
+
